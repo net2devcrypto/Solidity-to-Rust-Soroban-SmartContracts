@@ -33,7 +33,8 @@ Repo Contents:
 
 <h4>02-Rust-Demo_Tutorial-VoteContract.rs -  Watch @ 22:27</h4>
 
-Join the amazing Stellar Soroban Discord Community!
+
+<h3>Join Stellar's Dev Discord Community</h3>
 ```shell
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢹⣿⣿⣿
@@ -46,7 +47,7 @@ Join the amazing Stellar Soroban Discord Community!
 ⣿⣿⣿⣧⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢡⣀⠄⠄⢸⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣆⣸⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-http://discord.gg/stellardev
 ```
+http://discord.gg/stellardev
 
 
