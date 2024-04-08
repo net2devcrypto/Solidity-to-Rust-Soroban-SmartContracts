@@ -12,7 +12,7 @@ A repo with sample contracts to show you how you can translate from Solidity to 
 
 Tutorial Video:
 
-<a href="https://youtu.be/7db31q6G60o" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="https://youtu.be/1YttXux6yVY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 Repo Contents:
 
