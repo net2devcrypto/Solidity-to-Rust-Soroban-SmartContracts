@@ -25,7 +25,7 @@ Repo Contents:
 
 <h3>Contracts Written During The Tutorial</h3>
 
-<h4>01-Solidity-Demo_Tutorial-LogContract.sol -  Watch @ 08:16</h4>
+<h4>01-Solidity-Demo_Tutorial-LogContract.sol -  Watch @ https://youtu.be/1YttXux6yVY?t=8m16s</h4>
 
 <h4>01-Rust-Demo_Tutorial-LogContract.rs -  Watch @ 12:50</h4>
 
